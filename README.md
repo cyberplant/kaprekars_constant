@@ -64,4 +64,3 @@ Step-by-Step Sequence:
 - The script validates that all 4 digits are different
 - There's a default limit of 50 steps to prevent infinite loops
 - The process always converges to 6174 for valid inputs
-# kaprekars_constant
